@@ -1,0 +1,1 @@
+console.log('javascript: mock preparation');
